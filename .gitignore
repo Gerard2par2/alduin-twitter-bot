@@ -1,4 +1,11 @@
-out/**/*
-node_modules/**/*
+out/*
+private/*
+backup/*
+
+node_modules/*
+
+clones/*
+
 package-lock.json
+.vscode/*
 ```
