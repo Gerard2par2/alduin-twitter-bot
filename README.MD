@@ -13,4 +13,4 @@ These are the things that might be implemented, I haven't decided yet.
  - Generating memes from templates submitted by any user
 
  ----------
-[Learn dovahzul !]([https://](https://www.thuum.org/learn/))
+[Learn dovahzul !](https://www.thuum.org/learn/)
